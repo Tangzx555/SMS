@@ -3,11 +3,11 @@
 
 git clone https://github.com/tatajub11465/SMS/
 
-cd SMS
+cd SMS 0925230293
 
 
 
 
-sh set.sh
+sh set.sh2
 
 😉😉😉😉😉😉😉😉😉
